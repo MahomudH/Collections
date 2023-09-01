@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionsTypes.Queue", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections.LinkedListApp", "Collections.LinkedListApp\Collections.LinkedListApp.csproj", "{81602182-28E0-4662-BDB5-573296ADA527}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections.HashSetAndSortedSetApp", "Collections.HashSetAndSortedSetApp\Collections.HashSetAndSortedSetApp.csproj", "{08AA95C1-3837-444E-9A87-96AED8DFDE86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{81602182-28E0-4662-BDB5-573296ADA527}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81602182-28E0-4662-BDB5-573296ADA527}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81602182-28E0-4662-BDB5-573296ADA527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08AA95C1-3837-444E-9A87-96AED8DFDE86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08AA95C1-3837-444E-9A87-96AED8DFDE86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08AA95C1-3837-444E-9A87-96AED8DFDE86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08AA95C1-3837-444E-9A87-96AED8DFDE86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
