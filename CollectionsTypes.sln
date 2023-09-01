@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34004.107
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsTypes.StackApp", "CollectionsTypes.StackApp\CollectionsTypes.StackApp.csproj", "{13B15024-C0A7-4BD1-B329-B8390695CCFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollectionsTypes.StackApp", "CollectionsTypes.StackApp\CollectionsTypes.StackApp.csproj", "{13B15024-C0A7-4BD1-B329-B8390695CCFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsTypes.Queue", "CollectionsTypes.Queue\CollectionsTypes.Queue.csproj", "{2A147C50-2634-4FD3-8036-1C751AB5F25C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{13B15024-C0A7-4BD1-B329-B8390695CCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13B15024-C0A7-4BD1-B329-B8390695CCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13B15024-C0A7-4BD1-B329-B8390695CCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A147C50-2634-4FD3-8036-1C751AB5F25C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A147C50-2634-4FD3-8036-1C751AB5F25C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A147C50-2634-4FD3-8036-1C751AB5F25C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A147C50-2634-4FD3-8036-1C751AB5F25C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
